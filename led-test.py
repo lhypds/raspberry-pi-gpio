@@ -3,7 +3,7 @@ from time import sleep
 
 
 for i in [1, 30]:
-    print("Testing ..." + i)
+    print("Testing ..." + str(i))
     led = LED(i)
     led.on()
     sleep(1)
