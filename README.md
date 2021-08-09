@@ -1,2 +1,5 @@
-# raspberry-pi-gpio
+
+Raspberry Pi GPIO
+=================
+
 Control GPIO of Raspberry Pi with Python
